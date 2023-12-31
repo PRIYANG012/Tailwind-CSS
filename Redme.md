@@ -82,34 +82,6 @@ Go to example 1 [Example 1 - Utility First](01-utility-first/index.html)
 
 
 
-## Example 2
-Go to example 2 [Example 2 - Colors](02-colors/index.html)
-    - Exploring different colors available in Tailwind CSS
-
-## Example 3
-Go to example 3 [Example 3 - Containers & Spacing](03-container-spacing/index.html)
-    - Exploring different size and Spacing values for containers in Tailwind CSS
-
-## Example 4
-Go to example 4 [Example 4 - Typography](04-typography/index.html)
-    - Exploring different size, font-family, font-weight, alignment, spacing, decoration and style of typography in Tailwind CSS
-
-## Example 5
-Go to example 4 [Example 5 - Sizing](05-sizing/index.html)
-    - Exploring different width and height classes in Tailwind CSS
-
-## Example 6
-Go to example 6 [Example 6 - layout and positions](06-layout-position/index.html)
-    - Exploring different layout and position classes in Tailwind CSS
-
-## Example 7
-Go to example 7 [Example 7 - backgrounds and shadows](07-backgrounds-shadows/index.html)
-    - Exploring background,images and shadaws classes in Tailwind CSS
-
-## Example 8
-Go to example 8 [Example 8 - borders](08-borders/index.html)
-    - Exploring borders classes in Tailwind CSS
-
 
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
