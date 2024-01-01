@@ -81,7 +81,9 @@ Go to example 1 [Example 1 - Utility First](01-utility-first/index.html)
     - creating a alert dailouge box similar to css with the use of tailwind CSS
 
 
-
+## Example 2
+Go to example 2 [Example 2 - Colors](02-colors/index.html)
+    - Exploring different colors available in Tailwind CSS
 
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
