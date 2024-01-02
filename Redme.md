@@ -85,5 +85,10 @@ Go to example 1 [Example 1 - Utility First](01-utility-first/index.html)
 Go to example 2 [Example 2 - Colors](02-colors/index.html)
     - Exploring different colors available in Tailwind CSS
 
+## Example 3
+Go to example 3 [Example 3 - Containers & Spacing](03-container-spacing/index.html)
+    - Exploring different size and Spacing values for containers in Tailwind CSS
+
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
