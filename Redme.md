@@ -93,6 +93,9 @@ Go to example 3 [Example 3 - Containers & Spacing](03-container-spacing/index.ht
 Go to example 4 [Example 4 - Typography](04-typography/index.html)
     - Exploring different size, font-family, font-weight, alignment, spacing, decoration and style of typography in Tailwind CSS
 
+## Example 5
+Go to example 4 [Example 5 - Sizing](05-sizing/index.html)
+    - Exploring different width and height classes in Tailwind CSS
 
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
