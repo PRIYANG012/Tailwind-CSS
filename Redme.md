@@ -97,5 +97,11 @@ Go to example 4 [Example 4 - Typography](04-typography/index.html)
 Go to example 4 [Example 5 - Sizing](05-sizing/index.html)
     - Exploring different width and height classes in Tailwind CSS
 
+## Example 6
+Go to example 6 [Example 6 - layout and positions](06-layout-position/index.html)
+    - Exploring different layout and position classes in Tailwind CSS
+
+
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
