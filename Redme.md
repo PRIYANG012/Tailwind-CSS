@@ -101,6 +101,10 @@ Go to example 4 [Example 5 - Sizing](05-sizing/index.html)
 Go to example 6 [Example 6 - layout and positions](06-layout-position/index.html)
     - Exploring different layout and position classes in Tailwind CSS
 
+## Example 7
+Go to example 7 [Example 7 - backgrounds and shadows](07-backgrounds-shadows/index.html)
+    - Exploring background,images and shadaws classes in Tailwind CSS
+
 
 
 ## For VSCODE settings
