@@ -105,6 +105,9 @@ Go to example 6 [Example 6 - layout and positions](06-layout-position/index.html
 Go to example 7 [Example 7 - backgrounds and shadows](07-backgrounds-shadows/index.html)
     - Exploring background,images and shadaws classes in Tailwind CSS
 
+## Example 8
+Go to example 8 [Example 8 - borders](08-borders/index.html)
+    - Exploring borders classes in Tailwind CSS
 
 
 ## For VSCODE settings
