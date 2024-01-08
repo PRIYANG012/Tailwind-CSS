@@ -109,6 +109,10 @@ Go to example 7 [Example 7 - backgrounds and shadows](07-backgrounds-shadows/ind
 Go to example 8 [Example 8 - borders](08-borders/index.html)
     - Exploring borders classes in Tailwind CSS
 
+## Example 9
+Go to example 9 [Example 9 - filters](09-filters/index.html)
+    - Exploring filters classes like blur, brightness, contrast, grayscale, invert and hue rotate in Tailwind CSS
+
 
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
