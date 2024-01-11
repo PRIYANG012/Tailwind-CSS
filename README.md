@@ -117,6 +117,8 @@ Go to example 9 [Example 9 - filters](09-filters/index.html)
 Go to example 10 [Example 10 - interactivity](10-interactivity/index.html)
     - Exploring interactivity classes for hover, active, present state, pseudo classes, cursor, user select, etc in Tailwind CSS
 
-
+## Example 11
+Go to example 11 [Example 11 - breakpoints](11-breakpoints/index.html)
+    - exploring breakpoints for responsive layouts in Tailwind CSS
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
