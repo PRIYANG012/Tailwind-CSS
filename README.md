@@ -120,5 +120,10 @@ Go to example 10 [Example 10 - interactivity](10-interactivity/index.html)
 ## Example 11
 Go to example 11 [Example 11 - breakpoints](11-breakpoints/index.html)
     - exploring breakpoints for responsive layouts in Tailwind CSS
+
+## Example 12
+Go to example 12 [Example 12 - cloumns](12-columns/index.html)
+    - exploring cloumns classes in Tailwind CSS
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
