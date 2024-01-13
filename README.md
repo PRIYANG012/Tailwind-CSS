@@ -142,8 +142,12 @@ Go to example 16 [Example 16 - animation](16-animation/index.html)
     - exploring animation classes in Tailwind CSS
 
 ## Example 17
-Go to example 17 [Example 17 - customization](16-customization/index.html)
+Go to example 17 [Example 17 - customization](17-customization/index.html)
     - example of customization in Tailwind CSS
+
+## Example 18
+Go to example 18 [Example 18 - dark mode](18-dark-mode/index.html)
+    - example of dark mode in Tailwind CSS
 
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
