@@ -129,5 +129,17 @@ Go to example 12 [Example 12 - cloumns](12-columns/index.html)
 Go to example 13 [Example 13 - cloumns](13-flex/index.html)
     - exploring flexbox classes in Tailwind CSS
 
+## Example 14
+Go to example 14 [Example 14 - cloumns](14-grid/index.html)
+    - exploring grid classes in Tailwind CSS
+
+## Example 15
+Go to example 15 [Example 15 - transform and transition](15-transform-transition/index.html)
+    - exploring transform and transition classes in Tailwind CSS
+
+## Example 16
+Go to example 16 [Example 16 - animation](16-animation/index.html)
+    - exploring animation classes in Tailwind CSS
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
