@@ -141,5 +141,9 @@ Go to example 15 [Example 15 - transform and transition](15-transform-transition
 Go to example 16 [Example 16 - animation](16-animation/index.html)
     - exploring animation classes in Tailwind CSS
 
+## Example 17
+Go to example 17 [Example 17 - customization](16-customization/index.html)
+    - example of customization in Tailwind CSS
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
