@@ -125,5 +125,9 @@ Go to example 11 [Example 11 - breakpoints](11-breakpoints/index.html)
 Go to example 12 [Example 12 - cloumns](12-columns/index.html)
     - exploring cloumns classes in Tailwind CSS
 
+## Example 13
+Go to example 13 [Example 13 - cloumns](13-flex/index.html)
+    - exploring flexbox classes in Tailwind CSS
+
 ## For VSCODE settings
     - cmd+ shift + p --> Search settings.json 
