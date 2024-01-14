@@ -5,6 +5,8 @@
     - Tailwind is a CSS framework that uses low-level "utility" classes to create layouts. This is know as a utility-first framework.
     - Traditional CSS frameworks like Bootstrap use classes that are directly correlated to components (eg.Alerts, Navbars). Tailwind uses classes as utilities to put together to build your own custom components.
 
+## Install Tailwind CSS
+- use following link for [Installing Tailwind CSS](https://tailwindcss.com/docs/installation)
 ## What are utility classes & their advantage?
 
     - Utility classes are simple HTML classes typically scoped to a single and specific CSS property.
