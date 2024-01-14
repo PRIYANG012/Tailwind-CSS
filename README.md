@@ -149,5 +149,6 @@ Go to example 17 [Example 17 - customization](17-customization/index.html)
 Go to example 18 [Example 18 - dark mode](18-dark-mode/index.html)
     - example of dark mode in Tailwind CSS
 
-## For VSCODE settings
+
+## For VS-Code settings
     - cmd+ shift + p --> Search settings.json 
